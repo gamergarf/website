@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+}
+div {
+    margin-right: 150px;
+}
+
+h1 {
+    margin-left: 150px;
+    font-family: "Basier",Helvetica,Arial,sans-serif;
+    font-size: 1.2cm;
+}
+h2 {
+    margin-left: 150px;
+    font-family: "Basier",Helvetica,Arial,sans-serif;
+    font-size: 35px;
+}
+h3 {
+    margin-left: 150px;
+    font-family: "Basier",Helvetica,Arial,sans-serif;
+    font-size: 0.4cm;
+}
+h5{
+    font-family: "Didot",serif;
+    margin-left: 150px;
+    font-size: 15px;
+}
+h6 {
+    margin-left: 150px;
+    color: #717171;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+p {
+    margin-left: 150px;
+    font-family: "Didot" ,serif;
+    font-size: 23px;
+    margin-right: 350px;
+}
+.caption {
+    font-size: 15px;
+}
+.blackout {
+    margin-left: 0px;
+}
+a {
+    color: black;
+}
+footer {
+    background-color: #adfffb;
+    text-align: center;
+    font-size: 2px;
+    padding: 20px;
+}
